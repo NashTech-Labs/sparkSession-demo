@@ -1,5 +1,7 @@
-# sparks-final-assignment
+#SparkSession example
+# spark-final-assignment
 This example is for implementation of SparkSession
+
 ##Apache Spark
 ##Final Assignment
 Run following commands to execute this repo :-
